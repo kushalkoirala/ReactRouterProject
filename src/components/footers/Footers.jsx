@@ -42,11 +42,6 @@ export default function Footer() {
                                         Github
                                     </a>
                                 </li>
-                                <li>
-                                    <Link to="/" className="hover:underline">
-                                        Discord
-                                    </Link>
-                                </li>
                             </ul>
                         </div>
                         <div>
